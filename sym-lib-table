@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stlink-v3-hack)(type Legacy)(uri ${KIPRJMOD}/stlink-v3-hack.lib)(options "")(descr ""))
+)
