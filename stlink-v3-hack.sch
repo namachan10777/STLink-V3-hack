@@ -64,7 +64,7 @@ U 1 1 5E8F8A6E
 P 5700 2950
 F 0 "J4" H 5672 2832 50  0000 R CNN
 F 1 "Bridge_UART" H 5672 2923 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5700 2950 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 5700 2950 50  0001 C CNN
 F 3 "~" H 5700 2950 50  0001 C CNN
 	1    5700 2950
 	-1   0    0    1   
@@ -75,7 +75,7 @@ U 1 1 5E8FAC43
 P 5700 3200
 F 0 "J5" H 5672 3174 50  0000 R CNN
 F 1 "Bridge_UART" H 5672 3083 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5700 3200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 5700 3200 50  0001 C CNN
 F 3 "~" H 5700 3200 50  0001 C CNN
 	1    5700 3200
 	-1   0    0    -1  
@@ -116,7 +116,7 @@ U 1 1 5E905CFB
 P 5700 3650
 F 0 "J6" H 5672 3624 50  0000 R CNN
 F 1 "Bridge_SPI" H 5672 3533 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5700 3650 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 5700 3650 50  0001 C CNN
 F 3 "~" H 5700 3650 50  0001 C CNN
 	1    5700 3650
 	-1   0    0    -1  
@@ -127,7 +127,7 @@ U 1 1 5E908861
 P 5700 4100
 F 0 "J7" H 5672 4074 50  0000 R CNN
 F 1 "Bridge_SPI" H 5672 3983 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5700 4100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 5700 4100 50  0001 C CNN
 F 3 "~" H 5700 4100 50  0001 C CNN
 	1    5700 4100
 	-1   0    0    -1  
@@ -146,7 +146,7 @@ U 1 1 5E90C38B
 P 5700 4550
 F 0 "J8" H 5672 4432 50  0000 R CNN
 F 1 "Bridge_CAN" H 5672 4523 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5700 4550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 5700 4550 50  0001 C CNN
 F 3 "~" H 5700 4550 50  0001 C CNN
 	1    5700 4550
 	-1   0    0    1   
@@ -161,7 +161,7 @@ U 1 1 5E90F82B
 P 5700 4800
 F 0 "J9" H 5672 4682 50  0000 R CNN
 F 1 "Bridge_I2C" H 5672 4773 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5700 4800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 5700 4800 50  0001 C CNN
 F 3 "~" H 5700 4800 50  0001 C CNN
 	1    5700 4800
 	-1   0    0    1   
@@ -176,7 +176,7 @@ U 1 1 5E915AF6
 P 2900 3750
 F 0 "J3" H 3000 4000 50  0000 C CNN
 F 1 "Bridge_UART" H 2950 3900 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2900 3750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 2900 3750 50  0001 C CNN
 F 3 "~" H 2900 3750 50  0001 C CNN
 	1    2900 3750
 	1    0    0    -1  
@@ -191,7 +191,7 @@ U 1 1 5E91D46C
 P 1750 3500
 F 0 "J1" H 1650 3650 50  0000 C CNN
 F 1 "*Pill" V 1650 3450 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 1750 3500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 1750 3500 50  0001 C CNN
 F 3 "~" H 1750 3500 50  0001 C CNN
 	1    1750 3500
 	1    0    0    -1  
@@ -218,7 +218,7 @@ U 1 1 5E925F5A
 P 1800 4450
 F 0 "J2" H 1850 5067 50  0000 C CNN
 F 1 "JTAG" H 1850 4976 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical" H 1800 4450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Horizontal" H 1800 4450 50  0001 C CNN
 F 3 "~" H 1800 4450 50  0001 C CNN
 	1    1800 4450
 	1    0    0    -1  
