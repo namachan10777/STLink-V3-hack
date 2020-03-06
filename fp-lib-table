@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name STLink-V3-hack)(type KiCad)(uri ${KIPRJMOD}/STLink-V3-hack.pretty)(options "")(descr ""))
+)
